@@ -360,9 +360,7 @@ header .header-content ul li a{
     color: gray;
 }
 /*products*/
-.products{
-    /* text-align: center; */
-}
+
 .products-items{
     display: grid;
     grid-template-columns: repeat(3,1fr);
